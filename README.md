@@ -2,7 +2,7 @@
 - trying to learn javascrit
 - my biggest goal is pong game
 - i am a complete beginner
-- pp poopoo
+- pp pooppoo
 
 <!---
 donutdellsprinkles/donutdellsprinkles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
