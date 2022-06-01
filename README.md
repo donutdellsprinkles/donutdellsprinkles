@@ -1,8 +1,6 @@
-- a donut and yes a donut
-- trying to learn javascrit
-- my biggest goal is pong game
-- i am a complete beginner
-- pp poopoo
+-hello good people!
+- Currently learning the art of programming
+- VERY inactive due to academic life
 
 <!---
 donutdellsprinkles/donutdellsprinkles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
