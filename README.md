@@ -2,7 +2,8 @@
 - Currently learning the art of programming
 - VERY inactive due to academic life
 - # Skills; CSS and HTML
-- I have a respecatble amount of experience in HTML and CSS. They are the most simple langauges to learn out there but being able to put both languages into good use is something not done quite correctly. HTML and CSS were made to flow together and in order to allow the natural flow of these two languages together you must have a substanial amount of knowledge on how both of them function which I can confidently say I have understood.
+- I have a respecatble amount of experience in HTML and CSS. I am perfectly capable of combining both languages together in order to create fully functioning and maintainable websites!
+- 
 - For the past year I have been working on HTML and CSS, if you are interested to see what have I created you can check my repositories. I will upload my past work sometime soon.
 - # Preferences
 - <img src="https://cdn.vox-cdn.com/thumbor/5pEa36thZLseTI18tAVTxA7fazc=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/13443468/ss_591536b1d638f947111d9772318a10b1cb57e8ae.jpg">
