@@ -3,7 +3,7 @@
 - VERY inactive due to academic life
 - # Skills; CSS and HTML
 - I have a respecatble amount of experience in HTML and CSS. I am perfectly capable of combining both languages together in order to create fully functioning and maintainable websites!
-- <img src="hamburgerrer.PNG">
+- <img src="https://media.giphy.com/media/hCz1domfaqPWgkrysY/giphy.gif">
 - who does not love some gradually changing glowing text?
 - For the past year I have been working on HTML and CSS, if you are interested to see what have I created you can check my repositories. I will upload my past work sometime soon.
 - # Preferences
