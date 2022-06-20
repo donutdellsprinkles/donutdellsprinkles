@@ -1,4 +1,4 @@
-  <img src="Caught in act.jpg">
+- <img src="Caught in act.jpg">
 -  # **STOP RIGHT THERE**
 - I must introduce myself to you. I am Donut.
 - Currently learning the art of programming
