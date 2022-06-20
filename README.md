@@ -1,5 +1,5 @@
 - <img src="Caught in act.jpg">
--hello good people!
+-hello good people! I am Donut.
 - Currently learning the art of programming
 - VERY inactive due to academic life
 - # Skills; CSS and HTML
