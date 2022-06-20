@@ -1,6 +1,6 @@
 - <img src="Caught in act.jpg">
-STOP RIGHT THERE
--hello good people! I am Donut.
+  STOP RIGHT THERE
+- I must introduce myself to you. I am Donut.
 - Currently learning the art of programming
 - VERY inactive due to academic life
 - # Skills; CSS and HTML
