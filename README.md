@@ -1,4 +1,4 @@
-- <img src="Caught in act.png">
+- <img src="Caught in act.jpg">
 -hello good people!
 - Currently learning the art of programming
 - VERY inactive due to academic life
