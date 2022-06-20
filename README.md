@@ -1,4 +1,5 @@
 - <img src="Caught in act.jpg">
+STOP RIGHT THERE
 -hello good people! I am Donut.
 - Currently learning the art of programming
 - VERY inactive due to academic life
