@@ -1,3 +1,4 @@
+- <img src="Caught in act.png">
 -hello good people!
 - Currently learning the art of programming
 - VERY inactive due to academic life
