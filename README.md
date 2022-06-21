@@ -13,6 +13,8 @@
 - # Preferences
 - <img src="https://cdn.vox-cdn.com/thumbor/5pEa36thZLseTI18tAVTxA7fazc=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/13443468/ss_591536b1d638f947111d9772318a10b1cb57e8ae.jpg">
 If you could not tell already I am a massive fan of dystopia. The whole idea of a dystopia is very interesting 
+- Find me on discord [Donut#4292]
+
 
 <!---
 donutdellsprinkles/donutdellsprinkles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
