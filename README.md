@@ -4,6 +4,7 @@
 - I am Donut.
 - Currently learning the art of programming
 - VERY inactive due to academic life
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=donutdellsprinkles)](https://github.com/anuraghazra/github-readme-stats)
 - # Skills; CSS and HTML
 - I have a respectable amount of experience in HTML and CSS. I am perfectly capable of combining both languages together in order to create fully functioning and maintainable websites!
 - <img src="https://media.giphy.com/media/iR1r45zxg9akPWEJII/giphy.gif">
