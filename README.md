@@ -1,10 +1,11 @@
 - <img src="Caught in act.jpg">
 -  # **STOP RIGHT THERE**
-- I must introduce myself to you. I am Donut.
+- What do you think you are doing? Not getting to know me?
+- I am Donut.
 - Currently learning the art of programming
 - VERY inactive due to academic life
 - # Skills; CSS and HTML
-- I have a respecatble amount of experience in HTML and CSS. I am perfectly capable of combining both languages together in order to create fully functioning and maintainable websites!
+- I have a respectable amount of experience in HTML and CSS. I am perfectly capable of combining both languages together in order to create fully functioning and maintainable websites!
 - <img src="https://media.giphy.com/media/iR1r45zxg9akPWEJII/giphy.gif">
 - who does not love some color changing glowing text?
 - For the past year I have been working on HTML and CSS, if you are interested to see what have I created you can check my repositories. I will upload my past work sometime soon.
