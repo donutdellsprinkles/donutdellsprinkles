@@ -4,7 +4,7 @@
 - I am Donut.
 - Currently learning the art of programming
 - VERY inactive due to academic life
-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=donutdellsprinkles_icons=true&theme=radical)
+- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=donutdellsprinkles&theme=radical&show_icons=true)
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donutdellsprinkles&layout=compact)](https://github.com/donutdellsprinkles/github-readme-stats)
 - # Skills; CSS and HTML
 - I have a respectable amount of experience in HTML and CSS. I am perfectly capable of combining both languages together in order to create fully functioning and maintainable websites!
