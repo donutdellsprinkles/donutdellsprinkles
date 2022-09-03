@@ -13,9 +13,9 @@
 - For the past year I have been working on HTML and CSS, if you are interested to see what have I created you can check my repositories. I will upload my past work sometime soon.
 - # Preferences
 - <img src="https://cdn.vox-cdn.com/thumbor/5pEa36thZLseTI18tAVTxA7fazc=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/13443468/ss_591536b1d638f947111d9772318a10b1cb57e8ae.jpg">
-If you could not tell already I am a massive fan of dystopia. The whole idea of a dystopia is very interesting 
+If you could not tell already I am a massive fan of dystopia. The idea of a different reality where things are not good makes me appreciate this life much more
 - Find me on <img width="26px" src="https://discord.com/assets/2d20a45d79110dc5bf947137e9d99b66.svg"> [Donut#4292]
-## Status: Just finished my biggest project yet. Taking a break.
+## Status: Back to Academic Life so I will be quite inactive 
 
 
 <!---
