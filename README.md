@@ -1,3 +1,4 @@
+<!---
 - <img src="Caught in act.jpg">
 -  # **STOP RIGHT THERE**
 - What do you think you are doing? Not getting to know me?
@@ -16,6 +17,7 @@
 If you could not tell already I am a massive fan of dystopia. The idea of a different reality where things are not good makes me appreciate this life much more
 - Find me on <img width="26px" src="https://discord.com/assets/2d20a45d79110dc5bf947137e9d99b66.svg"> [Donut#4292]
 ## Status: Back to Academic Life so I will be quite inactive 
+--->
 
 
 <!---
